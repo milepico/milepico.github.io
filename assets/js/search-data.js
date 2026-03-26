@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-introduction-to-cuda-amp-gpu-architecture",
+            },{id: "post-cuda-c-practices",
+        
+          title: "CUDA C++ Practices",
+        
+        description: "用 CUDA C++ 写高性能常见算子",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/CUDA_Practices/";
+          
+        },
+      },{id: "post-introduction-to-cuda-amp-gpu-architecture",
         
           title: "Introduction to CUDA &amp; GPU Architecture",
         
